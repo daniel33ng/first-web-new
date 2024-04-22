@@ -1,0 +1,49 @@
+body{
+  background-color: burlywood;
+}
+h1{
+  background-color: red;
+  font-size: 70px;
+  text-align: center;
+}
+img{
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+}
+
+#text-color{
+  color: rebeccapurple;
+}
+.color{
+  color: brown;
+}
+a{
+ text-decoration: none;
+ color: red;
+ font-size: 50px;
+}
+#color{
+  color: red;
+}
+.font{
+  font-family: cursive;
+}
+
+#box{
+  height: 300px;
+  width: 300px;
+  /* border-style: solid;
+  border-width: 2px;
+  border-color: red; */
+  border-top:2px solid red;
+  border-bottom:2px solid brown;
+  border-left:2px solid yellow;
+  border-right:20px solid rebeccapurple;
+}
+button{
+  height: 50px;
+  width: 150px;
+  border-color:red;
+  background-color: black;
+}
